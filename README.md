@@ -27,7 +27,7 @@
 
 | Presentation (16:9) | Short (9:16) |
 | :---: | :---: |
-| https://github.com/VITTHEO/WinGame/blob/main/docs/WinGame_Presentation.mp4 | https://github.com/VITTHEO/WinGame/blob/main/docs/WinGame_Short_9x16.mp4 |
+| [![WinGame Presentation](https://img.youtube.com/vi/7R1BejNScWg/hqdefault.jpg)](https://www.youtube.com/watch?v=7R1BejNScWg) | [![WinGame Short 9x16](https://img.youtube.com/vi/CXWxTwlHdJk/hqdefault.jpg)](https://www.youtube.com/shorts/CXWxTwlHdJk) |
 
 ## 📸 Screenshots
 
