@@ -11,6 +11,10 @@
 [![PyQt6](https://img.shields.io/badge/UI-PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
+![Views](https://komarev.com/ghpvc/?username=VITTHEO-Wingame&label=VIEWS&color=8B5CF6&style=for-the-badge)
+[![Downloads](https://img.shields.io/github/downloads/VITTHEO/Wingame/total?style=for-the-badge&color=10B981&logo=github)](https://github.com/VITTHEO/Wingame/releases)
+[![Stars](https://img.shields.io/github/stars/VITTHEO/Wingame?style=for-the-badge&color=F59E0B&logo=github)](https://github.com/VITTHEO/Wingame/stargazers)
+
 *All-in-one gaming performance dashboard, kernel-level RAM cleaner, reversible Windows tweaker, game booster, and continuous auto-killer.*
 
 </div>
