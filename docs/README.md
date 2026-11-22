@@ -122,7 +122,6 @@ Or simply double-click **`lancer_wingames.bat`**.
 ## 🙏 Credits & Open-Source Attribution
 
 - **[WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)** by **Igor Mundstein** (GPL-3.0) — The native NT memory purging engine in [`core/winmemorycleaner.py`](core/winmemorycleaner.py) is a direct Python port of WinMemoryCleaner's `ComputerService.cs`, `Constants.cs`, and `Structs.cs`.
-- UI & Tweaks design inspired by open-source Windows optimization tools **[Sparkle](https://github.com/Parcoil/Sparkle)**, **[RyTuneX](https://github.com/rayenghanmi/RyTuneX)**, and **[Winhance](https://github.com/memstechtips/Winhance)**.
 
 ---
 
