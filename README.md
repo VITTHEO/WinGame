@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/screenshots/Wingame-logo.png" alt="WinGame Logo" width="140" />
+<img src="docs/screenshots/Wingame-logo.png" alt="WinGame Logo" width="240" />
 
 # WinGame
 
