@@ -6,9 +6,10 @@ __pycache__/
 .venv/
 venv/
 
-# PyInstaller build artifacts
+# PyInstaller & Release staging artifacts
 build/
 dist/
+github/
 *.spec
 
 # Local user config & logs
