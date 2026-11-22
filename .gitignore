@@ -1,0 +1,26 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Local user config & logs
+config.json
+*.log
+
+# Third-party reference downloads
+WinMemoryCleaner-*/
+*.cs
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

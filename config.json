@@ -1,0 +1,137 @@
+{
+    "auto_kill_interval_ms": 200,
+    "auto_kill_enabled": false,
+    "kill_children": true,
+    "blacklist": [
+        "OneDrive.exe",
+        "YourPhone.exe",
+        "PhoneExperienceHost.exe",
+        "GameBarPresenceWriter.exe",
+        "mscorsvw.exe",
+        "explorer.exe",
+        "MicrosoftEdgeUpdate.exe"
+    ],
+    "log_history_limit": 500,
+    "clean_temp_directories": [
+        "C:\\Users\\VITTHE~1\\AppData\\Local\\Temp",
+        "C:\\WINDOWS\\Temp"
+    ],
+    "process_refresh_interval_ms": 2500,
+    "game_profiles": {
+        "steam_228980": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_2644470": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_3570070": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_3946110": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_431240": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_4421010": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_49520": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": true,
+            "auto_clean_ram": true
+        },
+        "steam_5017590": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_5208630": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_521890": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_5220900": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "steam_673750": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "riot_valorant": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "epic_fortnite": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        },
+        "epic_rocket_league\u00ae": {
+            "priority": "High",
+            "auto_kill_blacklist": true,
+            "auto_kill_explorer": false,
+            "auto_clean_ram": true,
+            "custom_args": ""
+        }
+    },
+    "auto_ram_threshold_enabled": false,
+    "auto_ram_threshold_percent": 80,
+    "auto_ram_timer_enabled": false,
+    "auto_ram_timer_val": 5,
+    "auto_ram_timer_unit": "Seconds",
+    "auto_ram_timer_seconds": 5,
+    "auto_ram_mode": "industrial",
+    "minimize_to_tray": true,
+    "show_notifications": true,
+    "skip_splash": false,
+    "theme": "cyber_neon"
+}
