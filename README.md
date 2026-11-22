@@ -21,6 +21,14 @@
 
 ---
 
+## 🎬 Demos
+
+### WinGame — Presentation & Short 9x16
+
+| Presentation (16:9) | Short (9:16) |
+| :---: | :---: |
+| https://github.com/user-attachments/assets/VOTRE-ID-PRESENTATION | https://github.com/user-attachments/assets/VOTRE-ID-SHORT |
+
 ## 📸 Screenshots
 
 ### Dashboard — Sparkle Light & Midnight Dark
