@@ -27,7 +27,7 @@
 
 | Presentation (16:9) | Short (9:16) |
 | :---: | :---: |
-| https://github.com/user-attachments/assets/VOTRE-ID-PRESENTATION | https://github.com/user-attachments/assets/VOTRE-ID-SHORT |
+| https://github.com/VITTHEO/WinGame/blob/main/docs/WinGame_Presentation.mp4 | https://github.com/VITTHEO/WinGame/blob/main/docs/WinGame_Short_9x16.mp4 |
 
 ## 📸 Screenshots
 
