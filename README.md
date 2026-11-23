@@ -2,7 +2,7 @@
 
 <img src="docs/screenshots/Wingame-logo.png" alt="WinGame Logo" width="240" />
 
-# WinGame
+# Wingame
 
 **Modern Windows 10/11 Gaming & Hardware Optimizer**
 
